@@ -11,13 +11,15 @@ For each testcase, in a new line, print the starting and ending positions(1 inde
 1 <= N <= 107
 1 <= Ai <= 1010
 
-**Example:
-Input:**
+**Example:**
+
+**Input:**
 2
 5 12
 1 2 3 7 5
 10 15
 1 2 3 4 5 6 7 8 9 10
+
 **Output:**
 2 4
 1 5
