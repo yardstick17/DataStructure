@@ -15,8 +15,11 @@ For each testcase, in a new line, print the starting and ending positions(1 inde
 
 **Input:**
 2
+
 5 12
+
 1 2 3 7 5
+
 10 15
 1 2 3 4 5 6 7 8 9 10
 
