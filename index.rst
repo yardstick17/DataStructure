@@ -3,14 +3,18 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Image Text Reader's documentation!
+Welcome to Data Structure in C++ and Python's documentation!
 =============================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 5
    :caption: Contents:
 
-   python
+   README
+   python/Arrays/MaxSumIncreasingSubsequence/README.md
+   python/Arrays/SubArraySum/README.md
+   python/Arrays/Kadane/README.md
+   python/PracticeProblems/RemoveObstacle/README.md
    C++
    modules
 
