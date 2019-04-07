@@ -1,0 +1,19 @@
+python.Arrays package
+=====================
+
+Subpackages
+-----------
+
+.. toctree::
+
+    python.Arrays.Kadane
+    python.Arrays.MaxSumIncreasingSubsequence
+    python.Arrays.SubArraySum
+
+Module contents
+---------------
+
+.. automodule:: python.Arrays
+    :members:
+    :undoc-members:
+    :show-inheritance:

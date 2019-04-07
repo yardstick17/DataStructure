@@ -1,0 +1,22 @@
+python.Arrays.SubArraySum package
+=================================
+
+Submodules
+----------
+
+python.Arrays.SubArraySum.SubArraySum module
+--------------------------------------------
+
+.. automodule:: python.Arrays.SubArraySum.SubArraySum
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+
+Module contents
+---------------
+
+.. automodule:: python.Arrays.SubArraySum
+    :members:
+    :undoc-members:
+    :show-inheritance:

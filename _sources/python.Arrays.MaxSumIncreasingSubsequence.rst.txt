@@ -1,0 +1,10 @@
+python.Arrays.MaxSumIncreasingSubsequence package
+=================================================
+
+Module contents
+---------------
+
+.. automodule:: python.Arrays.MaxSumIncreasingSubsequence
+    :members:
+    :undoc-members:
+    :show-inheritance:

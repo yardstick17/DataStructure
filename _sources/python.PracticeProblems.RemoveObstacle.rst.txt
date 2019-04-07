@@ -1,0 +1,22 @@
+python.PracticeProblems.RemoveObstacle package
+==============================================
+
+Submodules
+----------
+
+python.PracticeProblems.RemoveObstacle.solution module
+------------------------------------------------------
+
+.. automodule:: python.PracticeProblems.RemoveObstacle.solution
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+
+Module contents
+---------------
+
+.. automodule:: python.PracticeProblems.RemoveObstacle
+    :members:
+    :undoc-members:
+    :show-inheritance:

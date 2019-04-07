@@ -1,0 +1,18 @@
+python package
+==============
+
+Subpackages
+-----------
+
+.. toctree::
+
+    python.Arrays
+    python.PracticeProblems
+
+Module contents
+---------------
+
+.. automodule:: python
+    :members:
+    :undoc-members:
+    :show-inheritance:

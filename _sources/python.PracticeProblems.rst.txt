@@ -1,0 +1,17 @@
+python.PracticeProblems package
+===============================
+
+Subpackages
+-----------
+
+.. toctree::
+
+    python.PracticeProblems.RemoveObstacle
+
+Module contents
+---------------
+
+.. automodule:: python.PracticeProblems
+    :members:
+    :undoc-members:
+    :show-inheritance:

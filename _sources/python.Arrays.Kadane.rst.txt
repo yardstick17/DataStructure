@@ -1,0 +1,22 @@
+python.Arrays.Kadane package
+============================
+
+Submodules
+----------
+
+python.Arrays.Kadane.kadane module
+----------------------------------
+
+.. automodule:: python.Arrays.Kadane.kadane
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+
+Module contents
+---------------
+
+.. automodule:: python.Arrays.Kadane
+    :members:
+    :undoc-members:
+    :show-inheritance:
