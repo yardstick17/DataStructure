@@ -10,11 +10,7 @@ Welcome to Data Structure in C++ and Python's documentation!
    :maxdepth: 5
    :caption: Contents:
 
-   README
-   python/Arrays/MaxSumIncreasingSubsequence/README.md
-   python/Arrays/SubArraySum/README.md
-   python/Arrays/Kadane/README.md
-   python/PracticeProblems/RemoveObstacle/README.md
+   python
    C++
    modules
 
